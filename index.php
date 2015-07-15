@@ -2,11 +2,17 @@
 <html>
 	<head>
 		<title>Data Design</title>
+		<link rel="stylesheet" type="text/css" href="style.css"/>
 	</head>
 	<body>
-		<p><h3>Persona</h3></p>
-		<p>My target audience is anyone and everyone looking to buy something. We are Amazon and have
-		almost anything you can think for sale.</p>
+		<div id="header">
+		<h3>Persona</h3>
+			<p>The target audience is anyone and everyone looking to buy something. Amazon has almost anything you can
+				think for sale and they don't care who buys it.
+			</p>
+		</div>
+		<br/>
+		<div id="paragraph">
 		<p><h3>Use Cases</h3></p>
 		<p>
 			<ol>
@@ -15,7 +21,7 @@
 				<li>User can then select the item from search results by clicking on the item name.</li>
 			</ol>
 		</p>
-
+		</div>
 	</body>
 </html>
 
