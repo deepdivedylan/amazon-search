@@ -13,7 +13,7 @@
 		<h3>Use Cases</h3>
 		<p>
 			<ol>
-				<li>User chooses store category and types in tv into the search bar and then submits search.</li>
+				<li>User chooses store category and types tv into the search bar and then submits search.</li>
 				<li>User filters search by price by hovering over the sort function and choosing price low to high.
 					Results return automatically</li>
 				<li>User checks the reviews by hovering over the star rating of the product and then clicks the see
