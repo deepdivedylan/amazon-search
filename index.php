@@ -5,22 +5,24 @@
 		<link rel="stylesheet" type="text/css" href="style.css"/>
 	</head>
 	<body>
-		<div id="header">
-		<h3>Persona</h3>
-			<p>The target audience is anyone and everyone looking to buy something. Amazon has almost anything you can
-				think for sale and they don't care who buys it.
-			</p>
+		<div class="blueBorder">
+			<h3>Persona</h3>
+				<p>General user that is in the market for a tv and wants to do price and review comparisons.</p>
 		</div>
-		<br/>
-		<div id="paragraph">
-		<p><h3>Use Cases</h3></p>
+		<div class="blueBorder">
+		<h3>Use Cases</h3>
 		<p>
 			<ol>
-				<li>User logs in and searches for products by typing in a specific item and then hits submit button.</li>
-				<li>Search results return product data(price, quantity, reviews, etc.) for user.</li>
-				<li>User can then select the item from search results by clicking on the item name.</li>
+				<li>User chooses store category and types in tv into the search bar and then submits search.</li>
+				<li>User filters search by price by hovering over the sort function and choosing price low to high.
+					Results return automatically</li>
+				<li>User checks the reviews by hovering over the star rating of the product and then clicks the see
+					all reviews link.</li>
 			</ol>
 		</p>
+		</div>
+		<div class="centerText">
+			<a href="erd.php">Diagram</a>
 		</div>
 	</body>
 </html>
