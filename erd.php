@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-	<head></head>
+	<head><link rel="stylesheet" type="text/css" href="style.css"/></head>
 	<body>
-		<img src="diagram/amazon-search-diagram.jpg"/>
+		<div class="page2">
+			<img src="diagram/amazon-search-diagram.jpg"/>
+		</div>
 	</body>
 </html>

@@ -1,19 +1,49 @@
 body {
 	display: block;
 	margin: 25px;
-	background: #DADFE1;
+	background: #000;
+	color: #FFF;
 }
 
-.blueBorder {
-	border: 5px solid #000;
+#main{border: 5px solid #FF701C;
 	padding: 10px;
 	margin: 10px;
+}
+
+#image{
+	height:auto;
+}
+
+#main2{border: 5px solid #FF701C;
+	padding: 10px;
+	margin: 10px;
+}
+
+.border {
+	border: 5px solid #FF701C;
+	padding: 10px;
+	margin: 10px;
+	width: 500px;
+}
+
+.center{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
 }
 
 .centerText{
 	text-align: center;
 }
 
+.page2{
+	background-color: #FF701C;
+	padding: 0;
+	border: 5px solid #FF701C;
+}
 
+a:visited{
+	color: #FF701C;
+}
 
 
